@@ -37,3 +37,8 @@ espressif-kicad-addon.zip
 # Various backups
 *-backups/
 *backups/
+
+# https://github.com/cmuphyscomp/physcomp-solidworks/blob/master/.gitignore
+# ignore SolidWorks temporary files
+~$*.SLDPRT
+~$*.SLDASM
