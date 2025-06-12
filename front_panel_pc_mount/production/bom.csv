@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D3",LED_D3.0mm,2,LED,
+"D2, D4",LED_D5.0mm,2,LED,
+"D5, D6",0603,2,LED,
+"D7, D8",0805,2,LED,
+J1,AMPHENOL_54602-908LF,1,FP Input,
+J2,AMPHENOL_54602-908LF,1,FP Output 1,
+J3,AMPHENOL_54602-908LF,1,FP Output 2,
+J4,AMPHENOL_54602-908LF,1,FP Output 3,
+SW1,SW_Cherry_MX_PCB_1.00u,1,Power Button,
+SW2,SW_Cherry_MX_PCB_1.00u,1,Reset Button,
